@@ -1,4 +1,4 @@
-# RitzHelper - Growth & Marketing Analytics DWH
+# RitzHelper - Growth & Marketing Analytics
 
 End-to-end data warehousing and growth analytics project built using Google BigQuery SQL and Looker Studio.
 
