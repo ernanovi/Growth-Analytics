@@ -11,3 +11,6 @@ End-to-end data warehousing and growth analytics project built using Google BigQ
 
 ## 📁 Repository Files
 - `operational_marketing_performance_view.sql`: Main SQL script for data transformation and views.
+
+## 📄 Management Report & Recommendations
+- View the complete business analysis and management recommendations here: [`Marketing_Performance_Capacity_Analysis.pdf`](Marketing_Performance_Capacity_Analysis.pdf)
